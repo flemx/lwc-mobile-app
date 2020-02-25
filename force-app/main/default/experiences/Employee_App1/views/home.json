@@ -1,0 +1,33 @@
+{
+  "appPageId" : "5ecf0634-f3fa-4a32-9396-13695285bdac",
+  "componentName" : "community_layout:sldsOneColLayout",
+  "id" : "665cd9e2-80c2-4da9-9f02-5e54d78563b5",
+  "label" : "Home",
+  "regions" : [ {
+    "id" : "99f7a9d1-adf2-4acb-97d5-1505d1af26f3",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "filterName" : "Service",
+        "objectApiName" : "Cases"
+      },
+      "componentName" : "c:recordList",
+      "id" : "82e028c5-85c3-4b94-a703-f3584842db32",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b0281411-0b3b-4b4c-a7ba-b655a90919ed",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "98b95494-969f-48cb-b288-b28e705016df",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

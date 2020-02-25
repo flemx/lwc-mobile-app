@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "afebe999-0c0b-4702-8df7-98ed1560df55",
+  "appPageId" : "713a5531-0478-4aac-9374-5a3f8dc1007d",
+  "id" : "96018584-8f8e-425e-8628-d8cc2103ecfc",
+  "label" : "Cases",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-test",
+  "type" : "route",
+  "urlPrefix" : "Cases"
+}

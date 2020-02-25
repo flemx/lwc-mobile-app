@@ -1,0 +1,49 @@
+{
+  "appPageId" : "713a5531-0478-4aac-9374-5a3f8dc1007d",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "b889827f-83a2-47ff-9852-54da5d910abd",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "showCreateNewCalendar" : false,
+        "showOtherCalendars" : false,
+        "showSidebar" : true
+      },
+      "componentName" : "forceCommunity:calendar",
+      "id" : "c0cc7dda-a2df-4cd2-ba52-43290c03533b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f19f1492-6d0e-4c0b-b032-d59b61a74788",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "c0c42e70-d30d-424f-8609-ee9926ffc8c9",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "6a9289c1-abbf-404c-8c79-8baf2af647ad",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "647ddb16-d9bd-4d14-9bff-eb53251083e5",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6dc4d1c7-d4c0-4702-b52f-7fb0261f823d",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Home",
+  "type" : "view",
+  "viewType" : "home"
+}

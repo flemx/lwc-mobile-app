@@ -1,0 +1,30 @@
+{
+  "appPageId" : "5ecf0634-f3fa-4a32-9396-13695285bdac",
+  "componentName" : "community_layout:sldsThreeCol363Layout",
+  "id" : "f0100c8a-1fa6-4bc8-900a-3d19e1db7fae",
+  "label" : "test",
+  "regions" : [ {
+    "id" : "f7b658af-b62e-4029-90d4-8f6d60bba4b5",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "95d292d3-8bd2-40bd-aa94-2ccccc9a2149",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "4b9f2874-e4c8-472c-ac39-be832913e4ce",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "80ee79b3-ee9d-41da-8608-9e0f4fafd980",
+    "regionName" : "sidebarAlt",
+    "type" : "region"
+  }, {
+    "id" : "1dc3e68c-d38e-469e-a2f4-aeb1516e6a4c",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-test"
+}

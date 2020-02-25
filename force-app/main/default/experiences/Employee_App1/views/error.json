@@ -1,0 +1,30 @@
+{
+  "appPageId" : "5ecf0634-f3fa-4a32-9396-13695285bdac",
+  "componentName" : "community_layout:sldsOneColLayout",
+  "id" : "023b6925-38e9-4b48-adfd-c2884219a60b",
+  "label" : "Error",
+  "regions" : [ {
+    "id" : "57f51598-1d2d-472d-9b97-c73ff0c3ae36",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "community_byo:error",
+      "id" : "dbef8ef8-dbbc-4252-bc41-33a5cb964d89",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e9e23abf-6995-46e3-90b8-3b1d12121a76",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "5718cbb7-3fa2-450b-986e-179f69792de7",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "error"
+}
